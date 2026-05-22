@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://canva.link/yw8zbimt4qdgbd4" width="100%" height="auto" alt="Cover Photo">
+  <img src="(https://github.com/novrnexuss/novrnexuss/blob/d173ddf01678009753d6285d4521b2751d06514c/Kenpachi.jpg)" width="100%" height="auto" alt="Cover Photo">
 </p>
 
 <h1 align="center">Hi, I'm 404 not found 👋</h1>
