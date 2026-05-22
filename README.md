@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/novrnexuss/novrnexuss/d173ddf01678009753d6285d4521b2751d06514c/Kenpachi.jpg" width="100%" height="auto" alt="Kenpachi Cover">
 </p>
 
-<h1 align="center">Hi, I'm 404 not found 👋</h1>
-<p align="center">Aspiring Developer • Beginner • 📍 Philippines</p>
+<h1 align="center">Hi, I'm 404 not found </h1>
+<p align="center">Aspiring Developer • Beginner •  Philippines</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/46713882/90734576-4f150b00-e2de-11ea-856a-9d60de8d926a.gif">
