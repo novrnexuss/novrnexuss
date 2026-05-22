@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./Header.jpg)" width="100%" alt="Banner">
+   <img src="https://raw.githubusercontent.com/novrnexuss/novrnexuss/76137a91016d0c29a3838000bd4d8533f6fc205e/Header.jpg" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">404 not found</h1>
