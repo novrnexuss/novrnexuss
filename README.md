@@ -1,9 +1,9 @@
+
 <p align="center">
-  <img src=![Uploading image.png…]()
- width="100%" alt="Cover Image">
+  <img src="https://i.imgur.com/xZ7bY8W.jpeg" width="100%" alt="Cover Image">
 </p>
 
-<h1 align="center">Hi, I'm 404 not found </h1>
+<h1 align="center">Hi, I'm 404 not found 👋</h1>
 <p align="center">Aspiring Developer • Beginner • 📍 Philippines</p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 
 ---
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,10 +21,13 @@
 
 ---
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical&border_radius=10)
 
 ---
 
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/4i5nEfUeS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slllyrwy?igsh=MXJ5aDFtNGI2OTE4aw==)
 
 ---
