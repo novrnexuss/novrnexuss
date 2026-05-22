@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115835977-e0f8c100-a42c-11eb-8a6a-24f3a84d8c90.png" width="100%" height="auto" alt="Cover">
+  <img src="(https://canva.link/yw8zbimt4qdgbd4)" width="100%" height="auto" alt="Cover">
 </p>
 
 <h1 align="center">Hi, I'm 404 not found 👋</h1>
