@@ -2,7 +2,7 @@
   <img src="[https://i.pinimg.com/originals/7c/9e/ed/7c9eed705586f945609f7098200d5612.jpg](https://pin.it/2t14Yml4v)" width="100%" height="auto" alt="Cover Image">
 </p>
 
-<h1 align="center">Hi, I'm 404 not found 👋</h1>
+<h1 align="center">Hi, I'm 404 not found </h1>
 <p align="center">Aspiring Developer • Beginner • 📍 Philippines</p>
 
 
@@ -23,13 +23,12 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/novrnexuss&show_icons=true&theme=radical&border_radius=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical&border_radius=10)
 
 ---
 
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/4i5nEfUeS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slllyrwy?igsh=MXJ5aDFtNGI2OTE4aw==)
 
 ---
