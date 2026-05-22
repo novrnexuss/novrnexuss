@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/vK2tU9L.jpeg" width="100%" alt="Cover Image">
+  <img src=![Uploading image.png…]()
+ width="100%" alt="Cover Image">
 </p>
 
 <h1 align="center">Hi, I'm 404 not found </h1>
