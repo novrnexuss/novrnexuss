@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/7c/9e/ed/7c9eed705586f945609f7098200d5612.jpg](https://pin.it/2t14Yml4v)" width="100%" height="auto" alt="Cover Image">
+  <img src="[(https://i.imgur.com/nU6xQZL.jpg
+)g](https://pin.it/2t14Yml4v)" width="100%" height="auto" alt="Cover Image">
 </p>
 
 <h1 align="center">Hi, I'm 404 not found </h1>
@@ -23,7 +24,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/novrnexuss&show_icons=true&theme=radical&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical&border_radius=10)
 
 
 ---
