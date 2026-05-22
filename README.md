@@ -23,7 +23,15 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical&border_radius=10)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=novrnexuss&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novrnexuss&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -47,11 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She / Her
 - ⚡ Fun fact: ... I love learning new things, even when it gets challenging
 -->
-
-
-![Novrnexuss GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novrnexuss&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=novrnexuss&theme=tokyonight&hide_border=true)
-
----
