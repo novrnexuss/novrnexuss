@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/6QYzXhL.png" width="100%" alt="Cover Image">
+  <img src="https://i.imgur.com/vK2tU9L.jpeg" width="100%" alt="Cover Image">
 </p>
 
-<h1 align="center">Hi, I'm 404 not found 👋</h1>
+<h1 align="center">Hi, I'm 404 not found </h1>
 <p align="center">Aspiring Developer • Beginner • 📍 Philippines</p>
 
 <p align="center">
@@ -18,7 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical&border_radius=10)
 
