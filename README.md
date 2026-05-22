@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Kenpachi.jpg" width="100%" alt="Banner">
+  <img src="[./Header.jpg)" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">404 not found</h1>
