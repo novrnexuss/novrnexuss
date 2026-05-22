@@ -40,13 +40,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=novrnexuss&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=novrnexuss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=novrnexuss&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novrnexuss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novrnexuss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
