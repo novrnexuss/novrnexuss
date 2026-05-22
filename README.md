@@ -1,4 +1,38 @@
-## Hi, I'm novrnexuss
+<!-- 📸 COVER BANNER -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/18/24/e7/1824e79c29159544d82998e7389473f6.jpg" width="100%" alt="Cover">
+</p>
+
+<!-- 📸 PROFILE PICTURE -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/38/93/1c/38931c9288d4c662d42690f3296f8680.jpg" width="150" height="150" style="border-radius:50%" alt="Profile Picture">
+</p>
+
+<h1 align="center">Hi, I'm 404 not found 👋</h1>
+<p align="center">Aspiring Developer • Beginner • 📍 Philippines</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/novrnexuss?label=Followers&style=for-the-badge" alt="Followers">
+  <img src="https://img.shields.io/github/stars/novrnexuss?label=Repositories&style=for-the-badge" alt="Repositories">
+</p>
+
+---
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical)
+
+---
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slllyrwy?igsh=MXJ5aDFtNGI2OTE4aw==)
+
+---
 
 <!--
 **novrnexuss/novrnexuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She / Her
 - ⚡ Fun fact: ... I love learning new things, even when it gets challenging
 -->
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novrnexuss&show_icons=true&theme=radical)
-
----
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/182PTJKd9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slllyrwy?igsh=MXJ5aDFtNGI2OTE4aw==)
