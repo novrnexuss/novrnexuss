@@ -36,7 +36,6 @@
 ---
 
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/4i5nEfUeS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slllyrwy?igsh=MXJ5aDFtNGI2OTE4aw==)
 
 ---
