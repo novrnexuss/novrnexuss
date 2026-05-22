@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/novrnexuss/novrnexuss/blob/d173ddf01678009753d6285d4521b2751d06514c/Kenpachi.jpg)" width="100%" height="auto" alt="Cover Photo">
+  <img src="https://raw.githubusercontent.com/novrnexuss/novrnexuss/d173ddf01678009753d6285d4521b2751d06514c/Kenpachi.jpg" width="100%" height="auto" alt="Kenpachi Cover">
 </p>
 
 <h1 align="center">Hi, I'm 404 not found 👋</h1>
@@ -15,6 +15,7 @@
 
 <br>
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,6 +27,8 @@
 
 ---
 
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/4i5nEfUeS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slllyrwy?igsh=MXJ5aDFtNGI2OTE4aw==)
 
 ---
